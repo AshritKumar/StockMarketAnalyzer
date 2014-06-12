@@ -1,0 +1,55 @@
+  html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+      }
+      body {
+        background-color: transparent;
+        -webkit-transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        -webkit-transform-style: preserve-3d;
+      }
+      .cdiv{
+        position: absolute;
+        width: 100%;
+        height: 45px;
+        color: rgb(0, 0, 0);
+        left: 0px;
+        top: 15px;
+      }
+      .cname {
+        position: absolute;
+        width: 426px;
+        height: 42px;
+        left: 20%;
+        top: -5px;
+        color: aqua;
+        background-image: none;
+      }
+      .details{
+        position: absolute;
+        width: 430px;
+        height: 609px;
+         background-color:white;
+        left: 0px;
+        top: 83px;
+      }
+      .graph {
+        position: absolute;
+        width: 300px;
+        height: 200px;
+        left: 58%;
+        top: 100px;
+      }
+      .table{
+      border:inherit;
+      text-align:justify;
+      width:300px;
+      height: 140px;
+      }
+      .arrow{
+      position:absolute;
+      margin-right: 2px;
+      width:20px;
+      height:23px;
+      font-size: xx-large;
+      }
