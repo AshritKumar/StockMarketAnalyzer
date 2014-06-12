@@ -8,7 +8,7 @@
 
 <html>
 <div  class="title" id="title">
-<h2 class="heading"><span class="titspn"><strong>STOCK MARKET ANALYZER </strong></span></h2>
+<h2 class="heading"><span class="titspn"><strong>STOCK MARKET ANALYZER</strong></span></h2>
 </div>
 <div  class="search" id="search">
 <form action="currentdaydetails" target="yourIframe">
